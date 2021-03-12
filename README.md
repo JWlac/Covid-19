@@ -1,3 +1,5 @@
+![Screenshot](starwars.jpg)
+
 # Covid-19
 Informações sobre o vírus.
 
