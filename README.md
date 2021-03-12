@@ -4,5 +4,5 @@ Informações sobre o vírus.
 ## Projeto Web HTML e CSS
 
 ### Assuntos Principais 
-- Novo plano de restrição São Paulo (Fase Emergencial)
+- Novo plano restrição São Paulo (Fase Emergencial)
 - Paralização do Campeonato Paulista
