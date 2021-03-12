@@ -5,3 +5,4 @@ Informações sobre o vírus.
 
 ### Assuntos Principais 
 - Novo plano de restrição (Fase Emergencial)
+- Paralização do Campeonato Paulista
