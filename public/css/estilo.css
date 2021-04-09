@@ -13,8 +13,8 @@ footer{
   color: white;
 }
 .bolinha{
-  width: 60px;
-  height: 60px;
+  width: 40px;
+  height: 40px;
   border-radius: 50%;
   margin: 5px;
   display: flex;
@@ -23,4 +23,4 @@ footer{
 }
 .icones{display: flex; justify-content: center;}
 
-.fa-facebook-f, .fa-instagram, .fa-youtube{font-size: 30px;}
+.fa-facebook-f,.fa-instagram,.fa-youtube{font-size: 24px;}
