@@ -1,7 +1,27 @@
-body{
-  background-color: aqua;
+/*----------Cores---------------*/
+.bg-pri{background-color: #313942;}
+.bg-sec{background-color: #01adb5;}
+.bg-fundo{background-color: #343434;} 
+
+.text-pri{color: #313942;}
+.text-sec{color: #01adb5;}
+.text-fundo{color: #343434;}
+/*----------Footer---------*/
+.footer{
+  width: 100%;
+  height: 250px;
+  color: white;
 }
-/*----------Pagina Home---------*/
+.bolinha{
+  width: 60px;
+  height: 60px;
+  border-radius: 50%;
+  margin: 10px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.fa-facebook-f, .fa-instagram, .fa-youtube{font-size: 24px;}
 
-
+.icon{display: flex; justify-content: center;}
 /*----------Pagina Inf---------*/
